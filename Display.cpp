@@ -1,3 +1,4 @@
+#include "Renderer.hpp"
 #include <windows.h>  // this is necessary for get_spotify window 
 #include <tlhelp32.h> // this is necessary for get_spotify window 
 
