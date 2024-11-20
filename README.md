@@ -22,5 +22,5 @@
 
 ## Dependecies 
 > <mark>**[Renderer](https://github.com/PhillipDaPaster/Temple-Hook/blob/d496b3ae1fb5da103b5d73ea6ed88d4e874237ec/imgui-workspace/renderer.hpp).**</mark><br>
-> <mark>**[TempleFont](https://github.com/PhillipDaPaster/Temple-Hook/blob/d496b3ae1fb5da103b5d73ea6ed88d4e874237ec/imgui-workspace/fonts.h) | [How?](https://github.com/PhillipDaPaster/Temple-Hook/blob/d496b3ae1fb5da103b5d73ea6ed88d4e874237ec/imgui-workspace/main.cpp#L92)**</mark> font doesn't fully support all languages but if you want the custom font
-> <mark>**[ImGui](https://github.com/ocornut/imgui).**</mark><br>
+> <mark>**[TempleFont](https://github.com/PhillipDaPaster/Temple-Hook/blob/d496b3ae1fb5da103b5d73ea6ed88d4e874237ec/imgui-workspace/fonts.h) | [How?](https://github.com/PhillipDaPaster/Temple-Hook/blob/d496b3ae1fb5da103b5d73ea6ed88d4e874237ec/imgui-workspace/main.cpp#L92)**</mark> font doesn't fully support all languages but if you want the custom font <br>
+> <mark>**[ImGui](https://github.com/ocornut/imgui).**</mark><br> 
